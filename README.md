@@ -13,9 +13,9 @@ Public list prices of AI creative tools, read on each vendor's own pricing page 
 
 - `data/plans.csv` and `data/plans.json`: one row per plan that has a price.
 - `data/tools.csv`: one row per tool.
+- `LICENSE`: full text of CC BY 4.0.
 
 The data files are generated from the records behind twistavo.com/ai-tool-pricing by `scripts/seo/export-tool-pricing-dataset.mjs` in the Twistavo code base. No value is typed by hand.
-- `LICENSE`: full text of CC BY 4.0.
 
 ## Columns: plans.csv and plans.json
 
@@ -32,7 +32,7 @@ The data files are generated from the records behind twistavo.com/ai-tool-pricin
 | `checked_on` | Date the page was read (YYYY-MM-DD) |
 | `source_url` | Vendor pricing page the price comes from |
 | `page_url` | Tool page on twistavo.com |
-| `kind` | `one-time` (paid once), `usage` (pay as you go, no recurring fee) or `recurring`, when the vendor page states it. Empty when not stated (`null` in JSON); such a plan is read as a regular plan |
+| `kind` | `one-time` (paid once), `usage` (pay as you go, no recurring fee) or `recurring` (a value reserved for later: no row uses it in this release), when the vendor page states it. Empty when not stated (`null` in JSON); such a plan is read as a regular plan |
 
 ## Columns: tools.csv
 
@@ -68,7 +68,7 @@ Rule for `entry_*`: a one-time purchase above 0 comes first (the cheapest, in th
 
 The files are now generated from the site's records instead of being copied by hand, so they follow the rules of twistavo.com/ai-tool-pricing.
 
-- `plans.csv` and `plans.json`: new `kind` column (`one-time`, `usage`, `recurring` or empty), set on 18 rows where the vendor page states it.
+- `plans.csv` and `plans.json`: new `kind` column (`one-time`, `usage` or empty; `recurring` is reserved), set on 18 rows where the vendor page states it.
 - `plans.csv` and `plans.json`: new row for Remove.bg "Pay-as-you-go, 3 credits" (€3, one-time purchase), read on the same 2026-11-22 page. 182 rows become 183.
 - `tools.csv`: new `entry_plan`, `entry_price`, `entry_period`, `entry_kind` and `entry_cheaper` columns, filled for the 9 tools with a one-time or pay-as-you-go option.
 - `tools.csv`: Upscale.media `cheapest_*` was empty because its paid plan's billing text says "billed yearly" and not "per year". It now shows that plan, as the site does.
