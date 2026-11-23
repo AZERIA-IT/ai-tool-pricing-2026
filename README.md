@@ -42,7 +42,7 @@ Public list prices of AI creative tools, read on each vendor's own pricing page 
 | `cheapest_price` | Price of that plan, copied from `plans.csv` |
 | `cheapest_period` | Billing text of that plan, copied from `plans.csv` |
 
-Ranking rule for `cheapest_*`: a `per month` price is compared as listed; a `per year` price is divided by 12 for the comparison only. The divided value is not published. Currency is read from the price, or from the billing text when the price has no currency sign. Ties go to the first plan listed. Left empty when a tool has no recurring paid plan, or when its recurring plans use more than one currency.
+Ranking rule for `cheapest_*`: a `per month` price is compared as listed; a `per year` price is divided by 12 for the comparison only. The divided value is not published. Currency is read from the price, or from the billing text when the price has no currency sign. Ties go to the first plan listed. Left empty when a tool has no paid plan whose billing text says "per month" or "per year" (for example a plan shown only as "billed yearly"), or when its recurring plans use more than one currency.
 
 ## Methodology
 
