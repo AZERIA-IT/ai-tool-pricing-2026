@@ -1,183 +1,184 @@
-tool,tool_slug,category,plan,price,period,alt_price,region_short,checked_on,source_url,page_url
-AIVA,aiva,music,Standard,€11,"per month + VAT, billed annually",,"France, EUR",2026-11-22,https://www.aiva.ai/pricing,https://twistavo.com/ai-tool-pricing/aiva
-AIVA,aiva,music,Pro,€33,"per month + VAT, billed annually",,"France, EUR",2026-11-22,https://www.aiva.ai/pricing,https://twistavo.com/ai-tool-pricing/aiva
-Akool,akool,avatar,Free,$0,free,,"France, USD",2026-11-22,https://www.akool.com/pricing,https://twistavo.com/ai-tool-pricing/akool
-Akool,akool,avatar,Starter,$12,"per seat per month, billed yearly as $144",,"France, USD",2026-11-22,https://www.akool.com/pricing,https://twistavo.com/ai-tool-pricing/akool
-Akool,akool,avatar,Pro,$21,"per seat per month, billed yearly as $252",$30 a month on the monthly plan (per the workspace rules example),"France, USD",2026-11-22,https://www.akool.com/pricing,https://twistavo.com/ai-tool-pricing/akool
-Akool,akool,avatar,Pro Max,$41.30,"per seat per month, billed yearly as $495.60",,"France, USD",2026-11-22,https://www.akool.com/pricing,https://twistavo.com/ai-tool-pricing/akool
-Akool,akool,avatar,Business,$174.30,"per seat per month, billed yearly as $2091.60",,"France, USD",2026-11-22,https://www.akool.com/pricing,https://twistavo.com/ai-tool-pricing/akool
-Animaker,animaker,video,Starter,$300,"per year, billed yearly ($25/mo)",$45 /mo shown for monthly payment,"France, USD",2026-11-22,https://www.animaker.com/pricing,https://twistavo.com/ai-tool-pricing/animaker
-Animaker,animaker,video,Pro,$516,"per year, billed yearly ($43/mo)",$79 /mo shown for monthly payment,"France, USD",2026-11-22,https://www.animaker.com/pricing,https://twistavo.com/ai-tool-pricing/animaker
-Animaker,animaker,video,Max,$948,"per year, billed yearly ($79/mo)",$139 /mo shown for monthly payment,"France, USD",2026-11-22,https://www.animaker.com/pricing,https://twistavo.com/ai-tool-pricing/animaker
-Captions,captions,editing,Max,$24.99,per month,,USD,2026-11-22,https://www.captions.ai/pricing,https://twistavo.com/ai-tool-pricing/captions
-Captions,captions,editing,Frontier,$69.99,per month,,USD,2026-11-22,https://www.captions.ai/pricing,https://twistavo.com/ai-tool-pricing/captions
-Captions,captions,editing,Frontier 2x,$139.99,per month,,USD,2026-11-22,https://www.captions.ai/pricing,https://twistavo.com/ai-tool-pricing/captions
-Captions,captions,editing,Frontier 4x,$279.99,per month,,USD,2026-11-22,https://www.captions.ai/pricing,https://twistavo.com/ai-tool-pricing/captions
-Cartesia,cartesia,voice,Pro,$5,per month,,"France, USD",2026-11-22,https://cartesia.ai/pricing,https://twistavo.com/ai-tool-pricing/cartesia
-Cartesia,cartesia,voice,Startup,$49,per month,,"France, USD",2026-11-22,https://cartesia.ai/pricing,https://twistavo.com/ai-tool-pricing/cartesia
-Cartesia,cartesia,voice,Scale,$299,per month,,"France, USD",2026-11-22,https://cartesia.ai/pricing,https://twistavo.com/ai-tool-pricing/cartesia
-Civitai,civitai,image,Bronze,$10,per month,,"France, USD",2026-11-22,https://civitai.com/pricing,https://twistavo.com/ai-tool-pricing/civitai
-Civitai,civitai,image,Silver,$25,per month,,"France, USD",2026-11-22,https://civitai.com/pricing,https://twistavo.com/ai-tool-pricing/civitai
-Civitai,civitai,image,Gold,$50,per month,,"France, USD",2026-11-22,https://civitai.com/pricing,https://twistavo.com/ai-tool-pricing/civitai
-Cleanup.pictures,cleanup-pictures,editing,Pro,$5,per month,$36 per year ($3 per month),"France, USD",2026-11-22,https://cleanup.pictures/pricing,https://twistavo.com/ai-tool-pricing/cleanup-pictures
-Clipping Magic,clipping-magic,bgremoval,Light,€3.49,"per month, billed monthly","Yearly equivalent (Light, 180 credits / year): €2.90 per month, billed yearly €34.80 / year","France, EUR and USD",2026-11-22,https://clippingmagic.com/pricing,https://twistavo.com/ai-tool-pricing/clipping-magic
-Clipping Magic,clipping-magic,bgremoval,Standard,€6.99,"per month, billed monthly","Yearly equivalent (Standard, 1,200 credits / year): €5.82 per month, billed yearly €69.84 / year","France, EUR and USD",2026-11-22,https://clippingmagic.com/pricing,https://twistavo.com/ai-tool-pricing/clipping-magic
-Clipping Magic,clipping-magic,bgremoval,Pro,€17.99,"per month, billed monthly","Yearly equivalent (Pro, 6,000 credits / year): €14.99 per month, billed yearly €179.88 / year","France, EUR and USD",2026-11-22,https://clippingmagic.com/pricing,https://twistavo.com/ai-tool-pricing/clipping-magic
-Clipping Magic,clipping-magic,bgremoval,Pro-1k,€27.49,"per month, billed monthly","Yearly equivalent (Pro-12k, 12,000 credits / year): €22.90 per month, billed yearly €274.80 / year","France, EUR and USD",2026-11-22,https://clippingmagic.com/pricing,https://twistavo.com/ai-tool-pricing/clipping-magic
-Clipping Magic,clipping-magic,bgremoval,Pro-2k,€39.99,"per month, billed monthly","Yearly equivalent (Pro-24k, 24,000 credits / year): €33.32 per month, billed yearly €399.84 / year","France, EUR and USD",2026-11-22,https://clippingmagic.com/pricing,https://twistavo.com/ai-tool-pricing/clipping-magic
-Clipping Magic,clipping-magic,bgremoval,Pro-4k,€64.99,"per month, billed monthly","Yearly equivalent (Pro-48k, 48,000 credits / year): €54.15 per month, billed yearly €649.80 / year","France, EUR and USD",2026-11-22,https://clippingmagic.com/pricing,https://twistavo.com/ai-tool-pricing/clipping-magic
-Colossyan,colossyan,avatar,Professional,$59,"per month, on an annual plan",,"France, USD",2026-11-22,https://www.colossyan.com/pricing,https://twistavo.com/ai-tool-pricing/colossyan
-Creatomate,creatomate,video,Essential,$45,"per month, $540 billed once a year",,"France, USD",2026-11-22,https://creatomate.com/pricing,https://twistavo.com/ai-tool-pricing/creatomate
-Creatomate,creatomate,video,Growth,$108,"per month, $1,290 billed once a year",,"France, USD",2026-11-22,https://creatomate.com/pricing,https://twistavo.com/ai-tool-pricing/creatomate
-Creatomate,creatomate,video,Beyond,$274,"per month, $3,290 billed once a year",,"France, USD",2026-11-22,https://creatomate.com/pricing,https://twistavo.com/ai-tool-pricing/creatomate
-DeepAI,deepai,image,Pro,$9.99,"per month, billed monthly","$7.50 per month, billed annually at $89.99","France, USD",2026-11-22,https://deepai.org/pricing,https://twistavo.com/ai-tool-pricing/deepai
-DeepAI,deepai,image,Mega,$29.99,"per month, billed monthly","$22.50 per month, billed annually at $269.99","France, USD",2026-11-22,https://deepai.org/pricing,https://twistavo.com/ai-tool-pricing/deepai
-DeepAI,deepai,image,Giga,$99.99,"per month, billed monthly","$75.00 per month, billed annually at $899.99","France, USD",2026-11-22,https://deepai.org/pricing,https://twistavo.com/ai-tool-pricing/deepai
-DeeVid AI,deevid,video,Lite,$10 USD,"per month, billed annually ($120 billed annually)",,"France, USD",2026-11-22,https://deevid.ai/pricing,https://twistavo.com/ai-tool-pricing/deevid
-DeeVid AI,deevid,video,Pro,$25 USD,"per month, billed annually ($300 billed annually)",,"France, USD",2026-11-22,https://deevid.ai/pricing,https://twistavo.com/ai-tool-pricing/deevid
-DeeVid AI,deevid,video,Premium,$119 USD,"per month, billed annually ($1,428 billed annually)",,"France, USD",2026-11-22,https://deevid.ai/pricing,https://twistavo.com/ai-tool-pricing/deevid
-Erase.bg,erase-bg,bgremoval,10 Credits (one-time pack),€3.80,billed once (€0.38 per credit),,"France, EUR and USD",2026-11-22,https://www.erase.bg/pricing,https://twistavo.com/ai-tool-pricing/erase-bg
-Erase.bg,erase-bg,bgremoval,100 Credits (one-time pack),€7.60,billed once (€0.08 per credit),,"France, EUR and USD",2026-11-22,https://www.erase.bg/pricing,https://twistavo.com/ai-tool-pricing/erase-bg
-Erase.bg,erase-bg,bgremoval,1000 Credits (one-time pack),€15.19,billed once (€0.02 per credit),,"France, EUR and USD",2026-11-22,https://www.erase.bg/pricing,https://twistavo.com/ai-tool-pricing/erase-bg
-Filmora,filmora,video,Basic,US$49.99,"per year, renews automatically",,"France, USD",2026-11-22,https://filmora.wondershare.com/pricing.html,https://twistavo.com/ai-tool-pricing/filmora
-Filmora,filmora,video,Perpetual,US$79.99,one-time payment,,"France, USD",2026-11-22,https://filmora.wondershare.com/pricing.html,https://twistavo.com/ai-tool-pricing/filmora
-Freepik,freepik,image,Premium,€12,"per month, billed annually",,"France, EUR",2026-11-22,https://www.freepik.com/pricing,https://twistavo.com/ai-tool-pricing/freepik
-Freepik,freepik,image,Plus,€27,"per month, billed annually",,"France, EUR",2026-11-22,https://www.freepik.com/pricing,https://twistavo.com/ai-tool-pricing/freepik
-Freepik,freepik,image,Pro,€66,"per month, billed annually",,"France, EUR",2026-11-22,https://www.freepik.com/pricing,https://twistavo.com/ai-tool-pricing/freepik
-Inworld AI,inworld,voice,On-Demand,$0,"pay as you go: TTS-2 $25/1M chars, TTS-2 Flash $15/1M chars, STT 1 $0.15/hr",,"France, USD",2026-11-22,https://inworld.ai/pricing,https://twistavo.com/ai-tool-pricing/inworld
-Inworld AI,inworld,voice,Creator,$25,per month,,"France, USD",2026-11-22,https://inworld.ai/pricing,https://twistavo.com/ai-tool-pricing/inworld
-Inworld AI,inworld,voice,Builder,$100,per month,,"France, USD",2026-11-22,https://inworld.ai/pricing,https://twistavo.com/ai-tool-pricing/inworld
-Inworld AI,inworld,voice,Developer,$300,per month,,"France, USD",2026-11-22,https://inworld.ai/pricing,https://twistavo.com/ai-tool-pricing/inworld
-Inworld AI,inworld,voice,Growth,"$1,500",per month,,"France, USD",2026-11-22,https://inworld.ai/pricing,https://twistavo.com/ai-tool-pricing/inworld
-Kits.ai,kits-ai,voice,Free,$0,per month,,"France, USD",2026-11-22,https://www.kits.ai/pricing,https://twistavo.com/ai-tool-pricing/kits-ai
-Kits.ai,kits-ai,voice,Starter,$10,"per month, billed monthly",,"France, USD",2026-11-22,https://www.kits.ai/pricing,https://twistavo.com/ai-tool-pricing/kits-ai
-Kits.ai,kits-ai,voice,Producer,$30,"per month, billed monthly",,"France, USD",2026-11-22,https://www.kits.ai/pricing,https://twistavo.com/ai-tool-pricing/kits-ai
-Kits.ai,kits-ai,voice,Professional,$60,"per month, billed monthly",,"France, USD",2026-11-22,https://www.kits.ai/pricing,https://twistavo.com/ai-tool-pricing/kits-ai
-LALAL.AI,lalal-ai,music,Lite,€6.75,"per month, €81 billed annually",,"France, EUR and USD",2026-11-22,https://www.lalal.ai/pricing/,https://twistavo.com/ai-tool-pricing/lalal-ai
-LALAL.AI,lalal-ai,music,Pro,€13.5,"per month, €162 billed annually",,"France, EUR and USD",2026-11-22,https://www.lalal.ai/pricing/,https://twistavo.com/ai-tool-pricing/lalal-ai
-LTX Studio,ltx-studio,video,Lite,$15,"per month, billed monthly",$144 billed yearly,"France, USD",2026-11-22,https://ltx.studio/pricing,https://twistavo.com/ai-tool-pricing/ltx-studio
-LTX Studio,ltx-studio,video,Standard,$35,"per month, billed monthly",$336 billed yearly,"France, USD",2026-11-22,https://ltx.studio/pricing,https://twistavo.com/ai-tool-pricing/ltx-studio
-LTX Studio,ltx-studio,video,Pro,$125,"per month, billed monthly","$1,200 billed yearly","France, USD",2026-11-22,https://ltx.studio/pricing,https://twistavo.com/ai-tool-pricing/ltx-studio
-Lumen5,lumen5,video,Free,$0,forever,,"France, USD",2026-11-22,https://lumen5.com/pricing,https://twistavo.com/ai-tool-pricing/lumen5
-Lumen5,lumen5,video,Basic,$19,"USD per month, billed yearly",,"France, USD",2026-11-22,https://lumen5.com/pricing,https://twistavo.com/ai-tool-pricing/lumen5
-Lumen5,lumen5,video,Starter,$59,"USD per month, billed yearly",,"France, USD",2026-11-22,https://lumen5.com/pricing,https://twistavo.com/ai-tool-pricing/lumen5
-Lumen5,lumen5,video,Pro,$149,"USD per month, billed yearly",,"France, USD",2026-11-22,https://lumen5.com/pricing,https://twistavo.com/ai-tool-pricing/lumen5
-Mage.Space,mage-space,image,Basic,$10 USD,"per month, billed monthly, charged in EUR (shown as ≈€9/month)",,"France, USD and EUR",2026-11-22,https://www.mage.space/pricing,https://twistavo.com/ai-tool-pricing/mage-space
-Mage.Space,mage-space,image,Pro,$30 USD,"per month, billed monthly, charged in EUR (shown as ≈€28/month)",,"France, USD and EUR",2026-11-22,https://www.mage.space/pricing,https://twistavo.com/ai-tool-pricing/mage-space
-Mage.Space,mage-space,image,Pro Plus,$60 USD,"per month, billed monthly, charged in EUR (shown as ≈€57/month)",,"France, USD and EUR",2026-11-22,https://www.mage.space/pricing,https://twistavo.com/ai-tool-pricing/mage-space
-Mage.Space,mage-space,image,Max,$200 USD,"per month, billed monthly, charged in EUR (shown as ≈€190/month)",,"France, USD and EUR",2026-11-22,https://www.mage.space/pricing,https://twistavo.com/ai-tool-pricing/mage-space
-Magic Hour,magic-hour,video,Creator,€13.2,"per month, €158.4 billed yearly upfront",Monthly billing costs more: the page says you save €93.6/year with yearly,"France, EUR and USD",2026-11-22,https://magichour.ai/pricing,https://twistavo.com/ai-tool-pricing/magic-hour
-Magic Hour,magic-hour,video,Pro,€23,"per month, €276 billed yearly upfront",Monthly billing costs more: the page says you save €156/year with yearly,"France, EUR and USD",2026-11-22,https://magichour.ai/pricing,https://twistavo.com/ai-tool-pricing/magic-hour
-Magic Hour,magic-hour,video,Business,€56,"per month, €672 billed yearly upfront",Monthly billing costs more: the page says you save €336/year with yearly,"France, EUR and USD",2026-11-22,https://magichour.ai/pricing,https://twistavo.com/ai-tool-pricing/magic-hour
-Magic Hour,magic-hour,video,Credit pack Small,$10,"one-time, credits never expire",,"France, EUR and USD",2026-11-22,https://magichour.ai/pricing,https://twistavo.com/ai-tool-pricing/magic-hour
-MakeUGC,makeugc,avatar,Starter,$59,"per month, regular monthly price",,"France, USD",2026-11-22,https://www.makeugc.ai/pricing,https://twistavo.com/ai-tool-pricing/makeugc
-MakeUGC,makeugc,avatar,Growth,$79,"per month, regular monthly price",,"France, USD",2026-11-22,https://www.makeugc.ai/pricing,https://twistavo.com/ai-tool-pricing/makeugc
-MakeUGC,makeugc,avatar,Pro,$149,"per month, regular monthly price",,"France, USD",2026-11-22,https://www.makeugc.ai/pricing,https://twistavo.com/ai-tool-pricing/makeugc
-Munch,munch,video,Essential,$68,"per month, month to month",$38/mo billed yearly,"France, USD",2026-11-22,https://www.getmunch.com/pricing,https://twistavo.com/ai-tool-pricing/munch
-Munch,munch,video,Premium,$85,"per month, month to month",$60/mo billed yearly,"France, USD",2026-11-22,https://www.getmunch.com/pricing,https://twistavo.com/ai-tool-pricing/munch
-Munch,munch,video,Studio,$148,"per month, month to month",$118/mo billed yearly,"France, USD",2026-11-22,https://www.getmunch.com/pricing,https://twistavo.com/ai-tool-pricing/munch
-Munch,munch,video,Scale,$398,"per month, month to month",$318/mo billed yearly,"France, USD",2026-11-22,https://www.getmunch.com/pricing,https://twistavo.com/ai-tool-pricing/munch
-Neural Frames,neural-frames,video,Neural Knight,$26,"per month, $312 billed yearly","$39 per month, billed monthly","France, USD",2026-11-22,https://www.neuralframes.com/pricing,https://twistavo.com/ai-tool-pricing/neural-frames
-Neural Frames,neural-frames,video,Neural Ninja,$66,"per month, $792 billed yearly","$99 per month, billed monthly","France, USD",2026-11-22,https://www.neuralframes.com/pricing,https://twistavo.com/ai-tool-pricing/neural-frames
-Neural Frames,neural-frames,video,Neural Nirvana,$199,"per month, $2388 billed yearly","$299 per month, billed monthly","France, USD",2026-11-22,https://www.neuralframes.com/pricing,https://twistavo.com/ai-tool-pricing/neural-frames
-OpusClip,opus-clip,video,Free,$0,"per month, free forever",,"France, USD",2026-11-22,https://www.opus.pro/pricing,https://twistavo.com/ai-tool-pricing/opus-clip
-OpusClip,opus-clip,video,Starter,$15,"per month, billed monthly (monthly only)",,"France, USD",2026-11-22,https://www.opus.pro/pricing,https://twistavo.com/ai-tool-pricing/opus-clip
-OpusClip,opus-clip,video,Pro,$29,"per month, billed monthly",$174 billed annually (3600 credits over 12 months),"France, USD",2026-11-22,https://www.opus.pro/pricing,https://twistavo.com/ai-tool-pricing/opus-clip
-Photoroom,photoroom,image,Pro,$7.50,"per month, billed yearly",,USD,2026-11-22,https://www.photoroom.com/pricing,https://twistavo.com/ai-tool-pricing/photoroom
-Photoroom,photoroom,image,Max,$20.99,"per month, billed yearly",,USD,2026-11-22,https://www.photoroom.com/pricing,https://twistavo.com/ai-tool-pricing/photoroom
-Photoroom,photoroom,image,Ultra,$82.50,"per month, billed yearly",,USD,2026-11-22,https://www.photoroom.com/pricing,https://twistavo.com/ai-tool-pricing/photoroom
-PixAI,pixai,image,Starter,€7.19,"per month, charged annually (€86.99 per year, billed as USD$95.88)",,"France, EUR and USD",2026-11-22,https://pixai.art/pricing,https://twistavo.com/ai-tool-pricing/pixai
-PixAI,pixai,image,Plus,€20.89,"per month, charged annually (€250.99 per year, billed as USD$275.88)",,"France, EUR and USD",2026-11-22,https://pixai.art/pricing,https://twistavo.com/ai-tool-pricing/pixai
-PixAI,pixai,image,Premium,€31.99,"per month, charged annually (€391.99 per year, billed as USD$431.88)",,"France, EUR and USD",2026-11-22,https://pixai.art/pricing,https://twistavo.com/ai-tool-pricing/pixai
-Pixelbin,pixelbin,upscaling,Creator plan,€13.68,"per month, billed monthly",,"France, EUR",2026-11-22,https://www.pixelbin.io/pricing,https://twistavo.com/ai-tool-pricing/pixelbin
-Pixelbin,pixelbin,upscaling,Lite plan,€27.35,"per month, billed monthly",,"France, EUR",2026-11-22,https://www.pixelbin.io/pricing,https://twistavo.com/ai-tool-pricing/pixelbin
-Pixelbin,pixelbin,upscaling,Pro plan,€54.70,"per month, billed monthly",,"France, EUR",2026-11-22,https://www.pixelbin.io/pricing,https://twistavo.com/ai-tool-pricing/pixelbin
-Pixelcut,pixelcut,bgremoval,Free,$0,per month,,"France, USD",2026-11-22,https://www.pixelcut.ai/pricing,https://twistavo.com/ai-tool-pricing/pixelcut
-Pixelcut,pixelcut,bgremoval,Pro,$8,"per month, billed yearly",$10 per month shown as the monthly-billing price,"France, USD",2026-11-22,https://www.pixelcut.ai/pricing,https://twistavo.com/ai-tool-pricing/pixelcut
-Pixelcut,pixelcut,bgremoval,Business,$24,"per month, billed yearly",$30 per month shown as the monthly-billing price,"France, USD",2026-11-22,https://www.pixelcut.ai/pricing,https://twistavo.com/ai-tool-pricing/pixelcut
-Pixlr,pixlr,image,Plus,€2.49,"per month, billed monthly",€1.99 per month on yearly billing,"France, EUR",2026-11-22,https://pixlr.com/pricing/,https://twistavo.com/ai-tool-pricing/pixlr
-Pixlr,pixlr,image,Premium,€9.99,"per month, billed monthly",€7.99 per month on yearly billing,"France, EUR",2026-11-22,https://pixlr.com/pricing/,https://twistavo.com/ai-tool-pricing/pixlr
-Pixlr,pixlr,image,Ultra,From €24.99,"per month, billed monthly",From €19.99 per month on yearly billing; Ultra MAX €49.99 monthly or €39.99,"France, EUR",2026-11-22,https://pixlr.com/pricing/,https://twistavo.com/ai-tool-pricing/pixlr
-Playground AI,playground,image,Pro,$12,"per month, billed annually ($144 charged in total annually)",,"France, USD",2026-11-22,https://playground.com/pricing,https://twistavo.com/ai-tool-pricing/playground
-Playground AI,playground,image,Pro Plus,$36,"per month, billed annually ($432 charged in total annually)",,"France, USD",2026-11-22,https://playground.com/pricing,https://twistavo.com/ai-tool-pricing/playground
-Polycam,polycam,3d,Free,$0,Free for everyone,,USD,2026-11-22,https://poly.cam/pricing,https://twistavo.com/ai-tool-pricing/polycam
-Polycam,polycam,3d,Basic,$150,"per year, billed yearly ($12.50 / month)",$30 per month billed monthly,USD,2026-11-22,https://poly.cam/pricing,https://twistavo.com/ai-tool-pricing/polycam
-Polycam,polycam,3d,Business,$400,"per year per user, billed yearly (regular price; a Black Friday discount was shown)",,USD,2026-11-22,https://poly.cam/pricing,https://twistavo.com/ai-tool-pricing/polycam
-Polycam,polycam,3d,Enterprise,$1200,"per year per user, billed yearly, 3 users minimum",,USD,2026-11-22,https://poly.cam/pricing,https://twistavo.com/ai-tool-pricing/polycam
-Powtoon,powtoon,video,Lite,$15,"per month, billed yearly",,"France, USD",2026-11-22,https://www.powtoon.com/pricing,https://twistavo.com/ai-tool-pricing/powtoon
-Powtoon,powtoon,video,Professional,$40,"per month, billed yearly",,"France, USD",2026-11-22,https://www.powtoon.com/pricing,https://twistavo.com/ai-tool-pricing/powtoon
-Powtoon,powtoon,video,Advanced,$125,"per month, billed yearly (regular price, before the Black Friday discount)",,"France, USD",2026-11-22,https://www.powtoon.com/pricing,https://twistavo.com/ai-tool-pricing/powtoon
-Rask AI,rask-ai,dubbing,Creator,$39,"per month, billed monthly",,"France, USD",2026-11-22,https://www.rask.ai/pricing,https://twistavo.com/ai-tool-pricing/rask-ai
-Rask AI,rask-ai,dubbing,Creator Pro,$99,"per month, billed monthly",,"France, USD",2026-11-22,https://www.rask.ai/pricing,https://twistavo.com/ai-tool-pricing/rask-ai
-Rask AI,rask-ai,dubbing,Business,$249,"per month, billed monthly",,"France, USD",2026-11-22,https://www.rask.ai/pricing,https://twistavo.com/ai-tool-pricing/rask-ai
-Removal.AI,removal-ai,bgremoval,"Monthly, 100 credits",$5.99,per month,,"France, USD",2026-11-22,https://removal.ai/pricing,https://twistavo.com/ai-tool-pricing/removal-ai
-Removal.AI,removal-ai,bgremoval,"Monthly, 450 credits",$25.99,per month,,"France, USD",2026-11-22,https://removal.ai/pricing,https://twistavo.com/ai-tool-pricing/removal-ai
-Removal.AI,removal-ai,bgremoval,"Monthly, 2800 credits",$120.90,per month,,"France, USD",2026-11-22,https://removal.ai/pricing,https://twistavo.com/ai-tool-pricing/removal-ai
-Removal.AI,removal-ai,bgremoval,"Monthly, 90000 credits",$1650.00,per month,,"France, USD",2026-11-22,https://removal.ai/pricing,https://twistavo.com/ai-tool-pricing/removal-ai
-Removal.AI,removal-ai,bgremoval,"Lifetime, 3 credits",$1.89,"one-time payment, credits usable within 3 years",,"France, USD",2026-11-22,https://removal.ai/pricing,https://twistavo.com/ai-tool-pricing/removal-ai
-Removal.AI,removal-ai,bgremoval,"Lifetime, 25 credits",$8.99,"one-time payment, credits usable within 3 years",,"France, USD",2026-11-22,https://removal.ai/pricing,https://twistavo.com/ai-tool-pricing/removal-ai
-Removal.AI,removal-ai,bgremoval,"Lifetime, 13000 credits",$1499.00,"one-time payment, credits usable within 3 years",,"France, USD",2026-11-22,https://removal.ai/pricing,https://twistavo.com/ai-tool-pricing/removal-ai
-Remove.bg,remove-bg,bgremoval,Personal (40 credits per month),€9,"per month, billed monthly",€8.10 per month billed yearly (€97.20 per year),"France, EUR",2026-11-22,https://www.remove.bg/pricing,https://twistavo.com/ai-tool-pricing/remove-bg
-Remove.bg,remove-bg,bgremoval,Professional (200 credits per month),€39,"per month, billed monthly",€35.10 per month billed yearly (€421.20 per year),"France, EUR",2026-11-22,https://www.remove.bg/pricing,https://twistavo.com/ai-tool-pricing/remove-bg
-Remove.bg,remove-bg,bgremoval,Professional (500 credits per month),€89,"per month, billed monthly",€80.10 per month billed yearly,"France, EUR",2026-11-22,https://www.remove.bg/pricing,https://twistavo.com/ai-tool-pricing/remove-bg
-Remove.bg,remove-bg,bgremoval,Business (7500 credits per month),€789,"per month, billed monthly",€710.10 per month billed yearly,"France, EUR",2026-11-22,https://www.remove.bg/pricing,https://twistavo.com/ai-tool-pricing/remove-bg
-Remove.bg,remove-bg,bgremoval,"Pay-as-you-go, 10 credits",€9,one-time purchase,,"France, EUR",2026-11-22,https://www.remove.bg/pricing,https://twistavo.com/ai-tool-pricing/remove-bg
-Remove.bg,remove-bg,bgremoval,"Pay-as-you-go, 75 credits",€49,one-time purchase,,"France, EUR",2026-11-22,https://www.remove.bg/pricing,https://twistavo.com/ai-tool-pricing/remove-bg
-Renderforest,renderforest,video,Lite,15,"USD per month, billed monthly","$108 per year, billed annually","France, USD",2026-11-22,https://www.renderforest.com/pricing,https://twistavo.com/ai-tool-pricing/renderforest
-Renderforest,renderforest,video,Pro,39,"USD per month, billed monthly","$228 per year, billed annually","France, USD",2026-11-22,https://www.renderforest.com/pricing,https://twistavo.com/ai-tool-pricing/renderforest
-Renderforest,renderforest,video,Business,59,"USD per month, billed monthly","$468 per year, billed annually","France, USD",2026-11-22,https://www.renderforest.com/pricing,https://twistavo.com/ai-tool-pricing/renderforest
-Renderforest,renderforest,video,Business Plus,119,"USD per month, billed monthly","$936 per year, billed annually","France, USD",2026-11-22,https://www.renderforest.com/pricing,https://twistavo.com/ai-tool-pricing/renderforest
-Renderforest,renderforest,video,Enterprise,238,"USD per month, billed monthly","$1788 per year, billed annually","France, USD",2026-11-22,https://www.renderforest.com/pricing,https://twistavo.com/ai-tool-pricing/renderforest
-Resemble AI,resemble-ai,voice,Flex,$0,"per month, no subscription fee; credits bought as you go",,"France, USD",2026-11-22,https://www.resemble.ai/pricing/,https://twistavo.com/ai-tool-pricing/resemble-ai
-Resemble AI,resemble-ai,voice,Team,$350,"per month, billed monthly",$280 per month billed annually (save $840/yr),"France, USD",2026-11-22,https://www.resemble.ai/pricing/,https://twistavo.com/ai-tool-pricing/resemble-ai
-Resemble AI,resemble-ai,voice,Business,"$1,000","per month, billed monthly","$800 per month billed annually (save $2,400/yr)","France, USD",2026-11-22,https://www.resemble.ai/pricing/,https://twistavo.com/ai-tool-pricing/resemble-ai
-Riverside,riverside,editing,Free,$0,per month,,"France, USD",2026-11-22,https://riverside.fm/pricing,https://twistavo.com/ai-tool-pricing/riverside
-Riverside,riverside,editing,Pro,$29,"per month, billed monthly",$24 per month billed annually ($288),"France, USD",2026-11-22,https://riverside.fm/pricing,https://twistavo.com/ai-tool-pricing/riverside
-Riverside,riverside,editing,Grow,$39,"per month, billed monthly",$34 per month billed annually ($408),"France, USD",2026-11-22,https://riverside.fm/pricing,https://twistavo.com/ai-tool-pricing/riverside
-Riverside,riverside,editing,Webinar,$99,"per month, billed monthly",$79 per month billed annually,"France, USD",2026-11-22,https://riverside.fm/pricing,https://twistavo.com/ai-tool-pricing/riverside
-Scenario,scenario,image,Starter,$15,"per month, billed monthly",,"France, USD",2026-11-22,https://www.scenario.com/pricing,https://twistavo.com/ai-tool-pricing/scenario
-Scenario,scenario,image,Pro,$45,"per month, billed monthly",,"France, USD",2026-11-22,https://www.scenario.com/pricing,https://twistavo.com/ai-tool-pricing/scenario
-Scenario,scenario,image,Max,$75,"per month, billed monthly",,"France, USD",2026-11-22,https://www.scenario.com/pricing,https://twistavo.com/ai-tool-pricing/scenario
-Sonix,sonix,editing,Pay As You Go,$10/hr,"per hour of audio or video, prorated to the second, no subscription",,"France, USD",2026-11-22,https://sonix.ai/pricing,https://twistavo.com/ai-tool-pricing/sonix
-Sonix,sonix,editing,Core,$25,"per month, billed monthly","$275 per year, billed annually","France, USD",2026-11-22,https://sonix.ai/pricing,https://twistavo.com/ai-tool-pricing/sonix
-Sonix,sonix,editing,Advanced,$50,"per month, billed monthly","$550 per year, billed annually","France, USD",2026-11-22,https://sonix.ai/pricing,https://twistavo.com/ai-tool-pricing/sonix
-Sonix,sonix,editing,Pro,$80,"per month, billed monthly","$880 per year, billed annually","France, USD",2026-11-22,https://sonix.ai/pricing,https://twistavo.com/ai-tool-pricing/sonix
-Spline,spline,3d,Free,$0,per month,,"France, USD",2026-11-22,https://spline.design/pricing,https://twistavo.com/ai-tool-pricing/spline
-Spline,spline,3d,Hobby,$12,"per seat per month, billed annually ($144 per year)",,"France, USD",2026-11-22,https://spline.design/pricing,https://twistavo.com/ai-tool-pricing/spline
-Spline,spline,3d,Pro,$25,"per seat per month, billed annually ($300 per year)",,"France, USD",2026-11-22,https://spline.design/pricing,https://twistavo.com/ai-tool-pricing/spline
-Spline,spline,3d,Max,$60,"per seat per month, billed annually ($720 per year)",,"France, USD",2026-11-22,https://spline.design/pricing,https://twistavo.com/ai-tool-pricing/spline
-Steve AI,steve-ai,video,Basic,$10,"per month, billed yearly ($120 per year)",,"France, USD",2026-11-22,https://www.steve.ai/pricing,https://twistavo.com/ai-tool-pricing/steve-ai
-Steve AI,steve-ai,video,Starter,$30,"per month, billed yearly ($360 per year)",,"France, USD",2026-11-22,https://www.steve.ai/pricing,https://twistavo.com/ai-tool-pricing/steve-ai
-Steve AI,steve-ai,video,Pro,$40,"per month, billed yearly ($480 per year)",,"France, USD",2026-11-22,https://www.steve.ai/pricing,https://twistavo.com/ai-tool-pricing/steve-ai
-Submagic,submagic,editing,Starter,12€,"per month, billed 144€ a year","19€ per month, billed monthly","France, EUR",2026-11-22,https://www.submagic.co/pricing,https://twistavo.com/ai-tool-pricing/submagic
-Submagic,submagic,editing,Pro,23€,"per month, billed 276€ a year","39€ per month, billed monthly","France, EUR",2026-11-22,https://www.submagic.co/pricing,https://twistavo.com/ai-tool-pricing/submagic
-Submagic,submagic,editing,Business,41€,"per month, billed 492€ a year","69€ per month, billed monthly","France, EUR",2026-11-22,https://www.submagic.co/pricing,https://twistavo.com/ai-tool-pricing/submagic
-Suno,suno,music,Free,$0,per month,,"France, USD",2026-11-22,https://suno.com/pricing,https://twistavo.com/ai-tool-pricing/suno
-Suno,suno,music,Pro,$10,"per month, billed monthly",$8 per month billed yearly ($96/year),"France, USD",2026-11-22,https://suno.com/pricing,https://twistavo.com/ai-tool-pricing/suno
-Suno,suno,music,Premier,$30,"per month, billed monthly",$24 per month billed yearly ($288/year),"France, USD",2026-11-22,https://suno.com/pricing,https://twistavo.com/ai-tool-pricing/suno
-Suno,suno,music,Platinum,$120,"per month, billed monthly","$100 per month billed yearly ($1,200/year)","France, USD",2026-11-22,https://suno.com/pricing,https://twistavo.com/ai-tool-pricing/suno
-Tavus,tavus,avatar,Developer Starter,$59,"per month access fee, plus pay as you go",,"France, USD",2026-11-22,https://www.tavus.io/pricing,https://twistavo.com/ai-tool-pricing/tavus
-Tavus,tavus,avatar,Developer Growth,$397,"per month access fee, plus pay as you go",,"France, USD",2026-11-22,https://www.tavus.io/pricing,https://twistavo.com/ai-tool-pricing/tavus
-Tavus,tavus,avatar,PALs Plus,$20,per month,,"France, USD",2026-11-22,https://www.tavus.io/pricing,https://twistavo.com/ai-tool-pricing/tavus
-Tavus,tavus,avatar,PALs Max,$50,per month,,"France, USD",2026-11-22,https://www.tavus.io/pricing,https://twistavo.com/ai-tool-pricing/tavus
-Topaz Labs,topaz-labs,upscaling,Topaz for Web - Image,$19,per month,,USD,2026-11-22,https://www.topazlabs.com/pricing,https://twistavo.com/ai-tool-pricing/topaz-labs
-Topaz Labs,topaz-labs,upscaling,Topaz for Web - Video,$29,per month,,USD,2026-11-22,https://www.topazlabs.com/pricing,https://twistavo.com/ai-tool-pricing/topaz-labs
-Topaz Labs,topaz-labs,upscaling,Topaz Photo,$39,per month,,USD,2026-11-22,https://www.topazlabs.com/pricing,https://twistavo.com/ai-tool-pricing/topaz-labs
-Topaz Labs,topaz-labs,upscaling,Topaz Video,$59,per month,,USD,2026-11-22,https://www.topazlabs.com/pricing,https://twistavo.com/ai-tool-pricing/topaz-labs
-Topaz Labs,topaz-labs,upscaling,Topaz Studio,$79,per month,,USD,2026-11-22,https://www.topazlabs.com/pricing,https://twistavo.com/ai-tool-pricing/topaz-labs
-TopView,topview,avatar,Plus,$36,"per month, billed annually ($432 billed annually)",,"France, USD",2026-11-22,https://www.topview.ai/pricing,https://twistavo.com/ai-tool-pricing/topview
-TopView,topview,avatar,Business,$44,"per month, billed annually ($528 billed annually)",,"France, USD",2026-11-22,https://www.topview.ai/pricing,https://twistavo.com/ai-tool-pricing/topview
-TopView,topview,avatar,Ultra,$50,"per month, billed annually ($599.9 billed annually)",,"France, USD",2026-11-22,https://www.topview.ai/pricing,https://twistavo.com/ai-tool-pricing/topview
-TopView,topview,avatar,Team,$56,"per seat per month, billed annually ($672 per seat billed annually)",,"France, USD",2026-11-22,https://www.topview.ai/pricing,https://twistavo.com/ai-tool-pricing/topview
-Upscale.media,upscale-media,upscaling,Free Plan,€0,per month,,"France, EUR",2026-11-22,https://upscale.media/pricing,https://twistavo.com/ai-tool-pricing/upscale-media
-Upscale.media,upscale-media,upscaling,Subscription Plan (default option shown),€63.81,"billed yearly (auto-renews), shown as €0.01 per credit",,"France, EUR",2026-11-22,https://upscale.media/pricing,https://twistavo.com/ai-tool-pricing/upscale-media
-Upscale.media,upscale-media,upscaling,"Pay as you go, 60 credits",€7.28,one-time payment,,"France, EUR",2026-11-22,https://upscale.media/pricing,https://twistavo.com/ai-tool-pricing/upscale-media
-Upscale.media,upscale-media,upscaling,"Pay as you go, 125 credits",€10.93,one-time payment,,"France, EUR",2026-11-22,https://upscale.media/pricing,https://twistavo.com/ai-tool-pricing/upscale-media
-Upscale.media,upscale-media,upscaling,"Pay as you go, 500 credits",€27.34,one-time payment,,"France, EUR",2026-11-22,https://upscale.media/pricing,https://twistavo.com/ai-tool-pricing/upscale-media
-Upscale.media,upscale-media,upscaling,"Pay as you go, 1200 credits",€50.14,one-time payment,,"France, EUR",2026-11-22,https://upscale.media/pricing,https://twistavo.com/ai-tool-pricing/upscale-media
-Voice.ai,voice-ai,voice,Free,$0,per month,,"France, USD",2026-11-22,https://voice.ai/pricing,https://twistavo.com/ai-tool-pricing/voice-ai
-Voice.ai,voice-ai,voice,Starter,$5,per month,,"France, USD",2026-11-22,https://voice.ai/pricing,https://twistavo.com/ai-tool-pricing/voice-ai
-Voice.ai,voice-ai,voice,Launch,$24,per month (regular price; first month discounted that day),,"France, USD",2026-11-22,https://voice.ai/pricing,https://twistavo.com/ai-tool-pricing/voice-ai
-Voice.ai,voice-ai,voice,Core,$99,per month,,"France, USD",2026-11-22,https://voice.ai/pricing,https://twistavo.com/ai-tool-pricing/voice-ai
-Voice.ai,voice-ai,voice,Scale,$330,per month,,"France, USD",2026-11-22,https://voice.ai/pricing,https://twistavo.com/ai-tool-pricing/voice-ai
-Voice.ai,voice-ai,voice,Business,$880,per month,,"France, USD",2026-11-22,https://voice.ai/pricing,https://twistavo.com/ai-tool-pricing/voice-ai
+tool,tool_slug,category,plan,price,period,alt_price,region_short,checked_on,source_url,page_url,kind
+AIVA,aiva,music,Standard,€11,"per month + VAT, billed annually",,"France, EUR",2026-11-22,https://www.aiva.ai/pricing,https://twistavo.com/ai-tool-pricing/aiva,
+AIVA,aiva,music,Pro,€33,"per month + VAT, billed annually",,"France, EUR",2026-11-22,https://www.aiva.ai/pricing,https://twistavo.com/ai-tool-pricing/aiva,
+Akool,akool,avatar,Free,$0,free,,"France, USD",2026-11-22,https://www.akool.com/pricing,https://twistavo.com/ai-tool-pricing/akool,
+Akool,akool,avatar,Starter,$12,"per seat per month, billed yearly as $144",,"France, USD",2026-11-22,https://www.akool.com/pricing,https://twistavo.com/ai-tool-pricing/akool,
+Akool,akool,avatar,Pro,$21,"per seat per month, billed yearly as $252",$30 a month on the monthly plan (per the workspace rules example),"France, USD",2026-11-22,https://www.akool.com/pricing,https://twistavo.com/ai-tool-pricing/akool,
+Akool,akool,avatar,Pro Max,$41.30,"per seat per month, billed yearly as $495.60",,"France, USD",2026-11-22,https://www.akool.com/pricing,https://twistavo.com/ai-tool-pricing/akool,
+Akool,akool,avatar,Business,$174.30,"per seat per month, billed yearly as $2091.60",,"France, USD",2026-11-22,https://www.akool.com/pricing,https://twistavo.com/ai-tool-pricing/akool,
+Animaker,animaker,video,Starter,$300,"per year, billed yearly ($25/mo)",$45 /mo shown for monthly payment,"France, USD",2026-11-22,https://www.animaker.com/pricing,https://twistavo.com/ai-tool-pricing/animaker,
+Animaker,animaker,video,Pro,$516,"per year, billed yearly ($43/mo)",$79 /mo shown for monthly payment,"France, USD",2026-11-22,https://www.animaker.com/pricing,https://twistavo.com/ai-tool-pricing/animaker,
+Animaker,animaker,video,Max,$948,"per year, billed yearly ($79/mo)",$139 /mo shown for monthly payment,"France, USD",2026-11-22,https://www.animaker.com/pricing,https://twistavo.com/ai-tool-pricing/animaker,
+Captions,captions,editing,Max,$24.99,per month,,USD,2026-11-22,https://www.captions.ai/pricing,https://twistavo.com/ai-tool-pricing/captions,
+Captions,captions,editing,Frontier,$69.99,per month,,USD,2026-11-22,https://www.captions.ai/pricing,https://twistavo.com/ai-tool-pricing/captions,
+Captions,captions,editing,Frontier 2x,$139.99,per month,,USD,2026-11-22,https://www.captions.ai/pricing,https://twistavo.com/ai-tool-pricing/captions,
+Captions,captions,editing,Frontier 4x,$279.99,per month,,USD,2026-11-22,https://www.captions.ai/pricing,https://twistavo.com/ai-tool-pricing/captions,
+Cartesia,cartesia,voice,Pro,$5,per month,,"France, USD",2026-11-22,https://cartesia.ai/pricing,https://twistavo.com/ai-tool-pricing/cartesia,
+Cartesia,cartesia,voice,Startup,$49,per month,,"France, USD",2026-11-22,https://cartesia.ai/pricing,https://twistavo.com/ai-tool-pricing/cartesia,
+Cartesia,cartesia,voice,Scale,$299,per month,,"France, USD",2026-11-22,https://cartesia.ai/pricing,https://twistavo.com/ai-tool-pricing/cartesia,
+Civitai,civitai,image,Bronze,$10,per month,,"France, USD",2026-11-22,https://civitai.com/pricing,https://twistavo.com/ai-tool-pricing/civitai,
+Civitai,civitai,image,Silver,$25,per month,,"France, USD",2026-11-22,https://civitai.com/pricing,https://twistavo.com/ai-tool-pricing/civitai,
+Civitai,civitai,image,Gold,$50,per month,,"France, USD",2026-11-22,https://civitai.com/pricing,https://twistavo.com/ai-tool-pricing/civitai,
+Cleanup.pictures,cleanup-pictures,editing,Pro,$5,per month,$36 per year ($3 per month),"France, USD",2026-11-22,https://cleanup.pictures/pricing,https://twistavo.com/ai-tool-pricing/cleanup-pictures,
+Clipping Magic,clipping-magic,bgremoval,Light,€3.49,"per month, billed monthly","Yearly equivalent (Light, 180 credits / year): €2.90 per month, billed yearly €34.80 / year","France, EUR and USD",2026-11-22,https://clippingmagic.com/pricing,https://twistavo.com/ai-tool-pricing/clipping-magic,
+Clipping Magic,clipping-magic,bgremoval,Standard,€6.99,"per month, billed monthly","Yearly equivalent (Standard, 1,200 credits / year): €5.82 per month, billed yearly €69.84 / year","France, EUR and USD",2026-11-22,https://clippingmagic.com/pricing,https://twistavo.com/ai-tool-pricing/clipping-magic,
+Clipping Magic,clipping-magic,bgremoval,Pro,€17.99,"per month, billed monthly","Yearly equivalent (Pro, 6,000 credits / year): €14.99 per month, billed yearly €179.88 / year","France, EUR and USD",2026-11-22,https://clippingmagic.com/pricing,https://twistavo.com/ai-tool-pricing/clipping-magic,
+Clipping Magic,clipping-magic,bgremoval,Pro-1k,€27.49,"per month, billed monthly","Yearly equivalent (Pro-12k, 12,000 credits / year): €22.90 per month, billed yearly €274.80 / year","France, EUR and USD",2026-11-22,https://clippingmagic.com/pricing,https://twistavo.com/ai-tool-pricing/clipping-magic,
+Clipping Magic,clipping-magic,bgremoval,Pro-2k,€39.99,"per month, billed monthly","Yearly equivalent (Pro-24k, 24,000 credits / year): €33.32 per month, billed yearly €399.84 / year","France, EUR and USD",2026-11-22,https://clippingmagic.com/pricing,https://twistavo.com/ai-tool-pricing/clipping-magic,
+Clipping Magic,clipping-magic,bgremoval,Pro-4k,€64.99,"per month, billed monthly","Yearly equivalent (Pro-48k, 48,000 credits / year): €54.15 per month, billed yearly €649.80 / year","France, EUR and USD",2026-11-22,https://clippingmagic.com/pricing,https://twistavo.com/ai-tool-pricing/clipping-magic,
+Colossyan,colossyan,avatar,Professional,$59,"per month, on an annual plan",,"France, USD",2026-11-22,https://www.colossyan.com/pricing,https://twistavo.com/ai-tool-pricing/colossyan,
+Creatomate,creatomate,video,Essential,$45,"per month, $540 billed once a year",,"France, USD",2026-11-22,https://creatomate.com/pricing,https://twistavo.com/ai-tool-pricing/creatomate,
+Creatomate,creatomate,video,Growth,$108,"per month, $1,290 billed once a year",,"France, USD",2026-11-22,https://creatomate.com/pricing,https://twistavo.com/ai-tool-pricing/creatomate,
+Creatomate,creatomate,video,Beyond,$274,"per month, $3,290 billed once a year",,"France, USD",2026-11-22,https://creatomate.com/pricing,https://twistavo.com/ai-tool-pricing/creatomate,
+DeepAI,deepai,image,Pro,$9.99,"per month, billed monthly","$7.50 per month, billed annually at $89.99","France, USD",2026-11-22,https://deepai.org/pricing,https://twistavo.com/ai-tool-pricing/deepai,
+DeepAI,deepai,image,Mega,$29.99,"per month, billed monthly","$22.50 per month, billed annually at $269.99","France, USD",2026-11-22,https://deepai.org/pricing,https://twistavo.com/ai-tool-pricing/deepai,
+DeepAI,deepai,image,Giga,$99.99,"per month, billed monthly","$75.00 per month, billed annually at $899.99","France, USD",2026-11-22,https://deepai.org/pricing,https://twistavo.com/ai-tool-pricing/deepai,
+DeeVid AI,deevid,video,Lite,$10 USD,"per month, billed annually ($120 billed annually)",,"France, USD",2026-11-22,https://deevid.ai/pricing,https://twistavo.com/ai-tool-pricing/deevid,
+DeeVid AI,deevid,video,Pro,$25 USD,"per month, billed annually ($300 billed annually)",,"France, USD",2026-11-22,https://deevid.ai/pricing,https://twistavo.com/ai-tool-pricing/deevid,
+DeeVid AI,deevid,video,Premium,$119 USD,"per month, billed annually ($1,428 billed annually)",,"France, USD",2026-11-22,https://deevid.ai/pricing,https://twistavo.com/ai-tool-pricing/deevid,
+Erase.bg,erase-bg,bgremoval,10 Credits (one-time pack),€3.80,billed once (€0.38 per credit),,"France, EUR and USD",2026-11-22,https://www.erase.bg/pricing,https://twistavo.com/ai-tool-pricing/erase-bg,one-time
+Erase.bg,erase-bg,bgremoval,100 Credits (one-time pack),€7.60,billed once (€0.08 per credit),,"France, EUR and USD",2026-11-22,https://www.erase.bg/pricing,https://twistavo.com/ai-tool-pricing/erase-bg,one-time
+Erase.bg,erase-bg,bgremoval,1000 Credits (one-time pack),€15.19,billed once (€0.02 per credit),,"France, EUR and USD",2026-11-22,https://www.erase.bg/pricing,https://twistavo.com/ai-tool-pricing/erase-bg,one-time
+Filmora,filmora,video,Basic,US$49.99,"per year, renews automatically",,"France, USD",2026-11-22,https://filmora.wondershare.com/pricing.html,https://twistavo.com/ai-tool-pricing/filmora,
+Filmora,filmora,video,Perpetual,US$79.99,one-time payment,,"France, USD",2026-11-22,https://filmora.wondershare.com/pricing.html,https://twistavo.com/ai-tool-pricing/filmora,one-time
+Freepik,freepik,image,Premium,€12,"per month, billed annually",,"France, EUR",2026-11-22,https://www.freepik.com/pricing,https://twistavo.com/ai-tool-pricing/freepik,
+Freepik,freepik,image,Plus,€27,"per month, billed annually",,"France, EUR",2026-11-22,https://www.freepik.com/pricing,https://twistavo.com/ai-tool-pricing/freepik,
+Freepik,freepik,image,Pro,€66,"per month, billed annually",,"France, EUR",2026-11-22,https://www.freepik.com/pricing,https://twistavo.com/ai-tool-pricing/freepik,
+Inworld AI,inworld,voice,On-Demand,$0,"pay as you go: TTS-2 $25/1M chars, TTS-2 Flash $15/1M chars, STT 1 $0.15/hr",,"France, USD",2026-11-22,https://inworld.ai/pricing,https://twistavo.com/ai-tool-pricing/inworld,usage
+Inworld AI,inworld,voice,Creator,$25,per month,,"France, USD",2026-11-22,https://inworld.ai/pricing,https://twistavo.com/ai-tool-pricing/inworld,
+Inworld AI,inworld,voice,Builder,$100,per month,,"France, USD",2026-11-22,https://inworld.ai/pricing,https://twistavo.com/ai-tool-pricing/inworld,
+Inworld AI,inworld,voice,Developer,$300,per month,,"France, USD",2026-11-22,https://inworld.ai/pricing,https://twistavo.com/ai-tool-pricing/inworld,
+Inworld AI,inworld,voice,Growth,"$1,500",per month,,"France, USD",2026-11-22,https://inworld.ai/pricing,https://twistavo.com/ai-tool-pricing/inworld,
+Kits.ai,kits-ai,voice,Free,$0,per month,,"France, USD",2026-11-22,https://www.kits.ai/pricing,https://twistavo.com/ai-tool-pricing/kits-ai,
+Kits.ai,kits-ai,voice,Starter,$10,"per month, billed monthly",,"France, USD",2026-11-22,https://www.kits.ai/pricing,https://twistavo.com/ai-tool-pricing/kits-ai,
+Kits.ai,kits-ai,voice,Producer,$30,"per month, billed monthly",,"France, USD",2026-11-22,https://www.kits.ai/pricing,https://twistavo.com/ai-tool-pricing/kits-ai,
+Kits.ai,kits-ai,voice,Professional,$60,"per month, billed monthly",,"France, USD",2026-11-22,https://www.kits.ai/pricing,https://twistavo.com/ai-tool-pricing/kits-ai,
+LALAL.AI,lalal-ai,music,Lite,€6.75,"per month, €81 billed annually",,"France, EUR and USD",2026-11-22,https://www.lalal.ai/pricing/,https://twistavo.com/ai-tool-pricing/lalal-ai,
+LALAL.AI,lalal-ai,music,Pro,€13.5,"per month, €162 billed annually",,"France, EUR and USD",2026-11-22,https://www.lalal.ai/pricing/,https://twistavo.com/ai-tool-pricing/lalal-ai,
+LTX Studio,ltx-studio,video,Lite,$15,"per month, billed monthly",$144 billed yearly,"France, USD",2026-11-22,https://ltx.studio/pricing,https://twistavo.com/ai-tool-pricing/ltx-studio,
+LTX Studio,ltx-studio,video,Standard,$35,"per month, billed monthly",$336 billed yearly,"France, USD",2026-11-22,https://ltx.studio/pricing,https://twistavo.com/ai-tool-pricing/ltx-studio,
+LTX Studio,ltx-studio,video,Pro,$125,"per month, billed monthly","$1,200 billed yearly","France, USD",2026-11-22,https://ltx.studio/pricing,https://twistavo.com/ai-tool-pricing/ltx-studio,
+Lumen5,lumen5,video,Free,$0,forever,,"France, USD",2026-11-22,https://lumen5.com/pricing,https://twistavo.com/ai-tool-pricing/lumen5,
+Lumen5,lumen5,video,Basic,$19,"USD per month, billed yearly",,"France, USD",2026-11-22,https://lumen5.com/pricing,https://twistavo.com/ai-tool-pricing/lumen5,
+Lumen5,lumen5,video,Starter,$59,"USD per month, billed yearly",,"France, USD",2026-11-22,https://lumen5.com/pricing,https://twistavo.com/ai-tool-pricing/lumen5,
+Lumen5,lumen5,video,Pro,$149,"USD per month, billed yearly",,"France, USD",2026-11-22,https://lumen5.com/pricing,https://twistavo.com/ai-tool-pricing/lumen5,
+Mage.Space,mage-space,image,Basic,$10 USD,"per month, billed monthly, charged in EUR (shown as ≈€9/month)",,"France, USD and EUR",2026-11-22,https://www.mage.space/pricing,https://twistavo.com/ai-tool-pricing/mage-space,
+Mage.Space,mage-space,image,Pro,$30 USD,"per month, billed monthly, charged in EUR (shown as ≈€28/month)",,"France, USD and EUR",2026-11-22,https://www.mage.space/pricing,https://twistavo.com/ai-tool-pricing/mage-space,
+Mage.Space,mage-space,image,Pro Plus,$60 USD,"per month, billed monthly, charged in EUR (shown as ≈€57/month)",,"France, USD and EUR",2026-11-22,https://www.mage.space/pricing,https://twistavo.com/ai-tool-pricing/mage-space,
+Mage.Space,mage-space,image,Max,$200 USD,"per month, billed monthly, charged in EUR (shown as ≈€190/month)",,"France, USD and EUR",2026-11-22,https://www.mage.space/pricing,https://twistavo.com/ai-tool-pricing/mage-space,
+Magic Hour,magic-hour,video,Creator,€13.2,"per month, €158.4 billed yearly upfront",Monthly billing costs more: the page says you save €93.6/year with yearly,"France, EUR and USD",2026-11-22,https://magichour.ai/pricing,https://twistavo.com/ai-tool-pricing/magic-hour,
+Magic Hour,magic-hour,video,Pro,€23,"per month, €276 billed yearly upfront",Monthly billing costs more: the page says you save €156/year with yearly,"France, EUR and USD",2026-11-22,https://magichour.ai/pricing,https://twistavo.com/ai-tool-pricing/magic-hour,
+Magic Hour,magic-hour,video,Business,€56,"per month, €672 billed yearly upfront",Monthly billing costs more: the page says you save €336/year with yearly,"France, EUR and USD",2026-11-22,https://magichour.ai/pricing,https://twistavo.com/ai-tool-pricing/magic-hour,
+Magic Hour,magic-hour,video,Credit pack Small,$10,"one-time, credits never expire",,"France, EUR and USD",2026-11-22,https://magichour.ai/pricing,https://twistavo.com/ai-tool-pricing/magic-hour,one-time
+MakeUGC,makeugc,avatar,Starter,$59,"per month, regular monthly price",,"France, USD",2026-11-22,https://www.makeugc.ai/pricing,https://twistavo.com/ai-tool-pricing/makeugc,
+MakeUGC,makeugc,avatar,Growth,$79,"per month, regular monthly price",,"France, USD",2026-11-22,https://www.makeugc.ai/pricing,https://twistavo.com/ai-tool-pricing/makeugc,
+MakeUGC,makeugc,avatar,Pro,$149,"per month, regular monthly price",,"France, USD",2026-11-22,https://www.makeugc.ai/pricing,https://twistavo.com/ai-tool-pricing/makeugc,
+Munch,munch,video,Essential,$68,"per month, month to month",$38/mo billed yearly,"France, USD",2026-11-22,https://www.getmunch.com/pricing,https://twistavo.com/ai-tool-pricing/munch,
+Munch,munch,video,Premium,$85,"per month, month to month",$60/mo billed yearly,"France, USD",2026-11-22,https://www.getmunch.com/pricing,https://twistavo.com/ai-tool-pricing/munch,
+Munch,munch,video,Studio,$148,"per month, month to month",$118/mo billed yearly,"France, USD",2026-11-22,https://www.getmunch.com/pricing,https://twistavo.com/ai-tool-pricing/munch,
+Munch,munch,video,Scale,$398,"per month, month to month",$318/mo billed yearly,"France, USD",2026-11-22,https://www.getmunch.com/pricing,https://twistavo.com/ai-tool-pricing/munch,
+Neural Frames,neural-frames,video,Neural Knight,$26,"per month, $312 billed yearly","$39 per month, billed monthly","France, USD",2026-11-22,https://www.neuralframes.com/pricing,https://twistavo.com/ai-tool-pricing/neural-frames,
+Neural Frames,neural-frames,video,Neural Ninja,$66,"per month, $792 billed yearly","$99 per month, billed monthly","France, USD",2026-11-22,https://www.neuralframes.com/pricing,https://twistavo.com/ai-tool-pricing/neural-frames,
+Neural Frames,neural-frames,video,Neural Nirvana,$199,"per month, $2388 billed yearly","$299 per month, billed monthly","France, USD",2026-11-22,https://www.neuralframes.com/pricing,https://twistavo.com/ai-tool-pricing/neural-frames,
+OpusClip,opus-clip,video,Free,$0,"per month, free forever",,"France, USD",2026-11-22,https://www.opus.pro/pricing,https://twistavo.com/ai-tool-pricing/opus-clip,
+OpusClip,opus-clip,video,Starter,$15,"per month, billed monthly (monthly only)",,"France, USD",2026-11-22,https://www.opus.pro/pricing,https://twistavo.com/ai-tool-pricing/opus-clip,
+OpusClip,opus-clip,video,Pro,$29,"per month, billed monthly",$174 billed annually (3600 credits over 12 months),"France, USD",2026-11-22,https://www.opus.pro/pricing,https://twistavo.com/ai-tool-pricing/opus-clip,
+Photoroom,photoroom,image,Pro,$7.50,"per month, billed yearly",,USD,2026-11-22,https://www.photoroom.com/pricing,https://twistavo.com/ai-tool-pricing/photoroom,
+Photoroom,photoroom,image,Max,$20.99,"per month, billed yearly",,USD,2026-11-22,https://www.photoroom.com/pricing,https://twistavo.com/ai-tool-pricing/photoroom,
+Photoroom,photoroom,image,Ultra,$82.50,"per month, billed yearly",,USD,2026-11-22,https://www.photoroom.com/pricing,https://twistavo.com/ai-tool-pricing/photoroom,
+PixAI,pixai,image,Starter,€7.19,"per month, charged annually (€86.99 per year, billed as USD$95.88)",,"France, EUR and USD",2026-11-22,https://pixai.art/pricing,https://twistavo.com/ai-tool-pricing/pixai,
+PixAI,pixai,image,Plus,€20.89,"per month, charged annually (€250.99 per year, billed as USD$275.88)",,"France, EUR and USD",2026-11-22,https://pixai.art/pricing,https://twistavo.com/ai-tool-pricing/pixai,
+PixAI,pixai,image,Premium,€31.99,"per month, charged annually (€391.99 per year, billed as USD$431.88)",,"France, EUR and USD",2026-11-22,https://pixai.art/pricing,https://twistavo.com/ai-tool-pricing/pixai,
+Pixelbin,pixelbin,upscaling,Creator plan,€13.68,"per month, billed monthly",,"France, EUR",2026-11-22,https://www.pixelbin.io/pricing,https://twistavo.com/ai-tool-pricing/pixelbin,
+Pixelbin,pixelbin,upscaling,Lite plan,€27.35,"per month, billed monthly",,"France, EUR",2026-11-22,https://www.pixelbin.io/pricing,https://twistavo.com/ai-tool-pricing/pixelbin,
+Pixelbin,pixelbin,upscaling,Pro plan,€54.70,"per month, billed monthly",,"France, EUR",2026-11-22,https://www.pixelbin.io/pricing,https://twistavo.com/ai-tool-pricing/pixelbin,
+Pixelcut,pixelcut,bgremoval,Free,$0,per month,,"France, USD",2026-11-22,https://www.pixelcut.ai/pricing,https://twistavo.com/ai-tool-pricing/pixelcut,
+Pixelcut,pixelcut,bgremoval,Pro,$8,"per month, billed yearly",$10 per month shown as the monthly-billing price,"France, USD",2026-11-22,https://www.pixelcut.ai/pricing,https://twistavo.com/ai-tool-pricing/pixelcut,
+Pixelcut,pixelcut,bgremoval,Business,$24,"per month, billed yearly",$30 per month shown as the monthly-billing price,"France, USD",2026-11-22,https://www.pixelcut.ai/pricing,https://twistavo.com/ai-tool-pricing/pixelcut,
+Pixlr,pixlr,image,Plus,€2.49,"per month, billed monthly",€1.99 per month on yearly billing,"France, EUR",2026-11-22,https://pixlr.com/pricing/,https://twistavo.com/ai-tool-pricing/pixlr,
+Pixlr,pixlr,image,Premium,€9.99,"per month, billed monthly",€7.99 per month on yearly billing,"France, EUR",2026-11-22,https://pixlr.com/pricing/,https://twistavo.com/ai-tool-pricing/pixlr,
+Pixlr,pixlr,image,Ultra,From €24.99,"per month, billed monthly",From €19.99 per month on yearly billing; Ultra MAX €49.99 monthly or €39.99,"France, EUR",2026-11-22,https://pixlr.com/pricing/,https://twistavo.com/ai-tool-pricing/pixlr,
+Playground AI,playground,image,Pro,$12,"per month, billed annually ($144 charged in total annually)",,"France, USD",2026-11-22,https://playground.com/pricing,https://twistavo.com/ai-tool-pricing/playground,
+Playground AI,playground,image,Pro Plus,$36,"per month, billed annually ($432 charged in total annually)",,"France, USD",2026-11-22,https://playground.com/pricing,https://twistavo.com/ai-tool-pricing/playground,
+Polycam,polycam,3d,Free,$0,Free for everyone,,USD,2026-11-22,https://poly.cam/pricing,https://twistavo.com/ai-tool-pricing/polycam,
+Polycam,polycam,3d,Basic,$150,"per year, billed yearly ($12.50 / month)",$30 per month billed monthly,USD,2026-11-22,https://poly.cam/pricing,https://twistavo.com/ai-tool-pricing/polycam,
+Polycam,polycam,3d,Business,$400,"per year per user, billed yearly (regular price; a Black Friday discount was shown)",,USD,2026-11-22,https://poly.cam/pricing,https://twistavo.com/ai-tool-pricing/polycam,
+Polycam,polycam,3d,Enterprise,$1200,"per year per user, billed yearly, 3 users minimum",,USD,2026-11-22,https://poly.cam/pricing,https://twistavo.com/ai-tool-pricing/polycam,
+Powtoon,powtoon,video,Lite,$15,"per month, billed yearly",,"France, USD",2026-11-22,https://www.powtoon.com/pricing,https://twistavo.com/ai-tool-pricing/powtoon,
+Powtoon,powtoon,video,Professional,$40,"per month, billed yearly",,"France, USD",2026-11-22,https://www.powtoon.com/pricing,https://twistavo.com/ai-tool-pricing/powtoon,
+Powtoon,powtoon,video,Advanced,$125,"per month, billed yearly (regular price, before the Black Friday discount)",,"France, USD",2026-11-22,https://www.powtoon.com/pricing,https://twistavo.com/ai-tool-pricing/powtoon,
+Rask AI,rask-ai,dubbing,Creator,$39,"per month, billed monthly",,"France, USD",2026-11-22,https://www.rask.ai/pricing,https://twistavo.com/ai-tool-pricing/rask-ai,
+Rask AI,rask-ai,dubbing,Creator Pro,$99,"per month, billed monthly",,"France, USD",2026-11-22,https://www.rask.ai/pricing,https://twistavo.com/ai-tool-pricing/rask-ai,
+Rask AI,rask-ai,dubbing,Business,$249,"per month, billed monthly",,"France, USD",2026-11-22,https://www.rask.ai/pricing,https://twistavo.com/ai-tool-pricing/rask-ai,
+Removal.AI,removal-ai,bgremoval,"Monthly, 100 credits",$5.99,per month,,"France, USD",2026-11-22,https://removal.ai/pricing,https://twistavo.com/ai-tool-pricing/removal-ai,
+Removal.AI,removal-ai,bgremoval,"Monthly, 450 credits",$25.99,per month,,"France, USD",2026-11-22,https://removal.ai/pricing,https://twistavo.com/ai-tool-pricing/removal-ai,
+Removal.AI,removal-ai,bgremoval,"Monthly, 2800 credits",$120.90,per month,,"France, USD",2026-11-22,https://removal.ai/pricing,https://twistavo.com/ai-tool-pricing/removal-ai,
+Removal.AI,removal-ai,bgremoval,"Monthly, 90000 credits",$1650.00,per month,,"France, USD",2026-11-22,https://removal.ai/pricing,https://twistavo.com/ai-tool-pricing/removal-ai,
+Removal.AI,removal-ai,bgremoval,"Lifetime, 3 credits",$1.89,"one-time payment, credits usable within 3 years",,"France, USD",2026-11-22,https://removal.ai/pricing,https://twistavo.com/ai-tool-pricing/removal-ai,one-time
+Removal.AI,removal-ai,bgremoval,"Lifetime, 25 credits",$8.99,"one-time payment, credits usable within 3 years",,"France, USD",2026-11-22,https://removal.ai/pricing,https://twistavo.com/ai-tool-pricing/removal-ai,one-time
+Removal.AI,removal-ai,bgremoval,"Lifetime, 13000 credits",$1499.00,"one-time payment, credits usable within 3 years",,"France, USD",2026-11-22,https://removal.ai/pricing,https://twistavo.com/ai-tool-pricing/removal-ai,one-time
+Remove.bg,remove-bg,bgremoval,Personal (40 credits per month),€9,"per month, billed monthly",€8.10 per month billed yearly (€97.20 per year),"France, EUR",2026-11-22,https://www.remove.bg/pricing,https://twistavo.com/ai-tool-pricing/remove-bg,
+Remove.bg,remove-bg,bgremoval,Professional (200 credits per month),€39,"per month, billed monthly",€35.10 per month billed yearly (€421.20 per year),"France, EUR",2026-11-22,https://www.remove.bg/pricing,https://twistavo.com/ai-tool-pricing/remove-bg,
+Remove.bg,remove-bg,bgremoval,Professional (500 credits per month),€89,"per month, billed monthly",€80.10 per month billed yearly,"France, EUR",2026-11-22,https://www.remove.bg/pricing,https://twistavo.com/ai-tool-pricing/remove-bg,
+Remove.bg,remove-bg,bgremoval,Business (7500 credits per month),€789,"per month, billed monthly",€710.10 per month billed yearly,"France, EUR",2026-11-22,https://www.remove.bg/pricing,https://twistavo.com/ai-tool-pricing/remove-bg,
+Remove.bg,remove-bg,bgremoval,"Pay-as-you-go, 3 credits",€3,one-time purchase,,"France, EUR",2026-11-22,https://www.remove.bg/pricing,https://twistavo.com/ai-tool-pricing/remove-bg,one-time
+Remove.bg,remove-bg,bgremoval,"Pay-as-you-go, 10 credits",€9,one-time purchase,,"France, EUR",2026-11-22,https://www.remove.bg/pricing,https://twistavo.com/ai-tool-pricing/remove-bg,one-time
+Remove.bg,remove-bg,bgremoval,"Pay-as-you-go, 75 credits",€49,one-time purchase,,"France, EUR",2026-11-22,https://www.remove.bg/pricing,https://twistavo.com/ai-tool-pricing/remove-bg,one-time
+Renderforest,renderforest,video,Lite,15,"USD per month, billed monthly","$108 per year, billed annually","France, USD",2026-11-22,https://www.renderforest.com/pricing,https://twistavo.com/ai-tool-pricing/renderforest,
+Renderforest,renderforest,video,Pro,39,"USD per month, billed monthly","$228 per year, billed annually","France, USD",2026-11-22,https://www.renderforest.com/pricing,https://twistavo.com/ai-tool-pricing/renderforest,
+Renderforest,renderforest,video,Business,59,"USD per month, billed monthly","$468 per year, billed annually","France, USD",2026-11-22,https://www.renderforest.com/pricing,https://twistavo.com/ai-tool-pricing/renderforest,
+Renderforest,renderforest,video,Business Plus,119,"USD per month, billed monthly","$936 per year, billed annually","France, USD",2026-11-22,https://www.renderforest.com/pricing,https://twistavo.com/ai-tool-pricing/renderforest,
+Renderforest,renderforest,video,Enterprise,238,"USD per month, billed monthly","$1788 per year, billed annually","France, USD",2026-11-22,https://www.renderforest.com/pricing,https://twistavo.com/ai-tool-pricing/renderforest,
+Resemble AI,resemble-ai,voice,Flex,$0,"per month, no subscription fee; credits bought as you go",,"France, USD",2026-11-22,https://www.resemble.ai/pricing/,https://twistavo.com/ai-tool-pricing/resemble-ai,usage
+Resemble AI,resemble-ai,voice,Team,$350,"per month, billed monthly",$280 per month billed annually (save $840/yr),"France, USD",2026-11-22,https://www.resemble.ai/pricing/,https://twistavo.com/ai-tool-pricing/resemble-ai,
+Resemble AI,resemble-ai,voice,Business,"$1,000","per month, billed monthly","$800 per month billed annually (save $2,400/yr)","France, USD",2026-11-22,https://www.resemble.ai/pricing/,https://twistavo.com/ai-tool-pricing/resemble-ai,
+Riverside,riverside,editing,Free,$0,per month,,"France, USD",2026-11-22,https://riverside.fm/pricing,https://twistavo.com/ai-tool-pricing/riverside,
+Riverside,riverside,editing,Pro,$29,"per month, billed monthly",$24 per month billed annually ($288),"France, USD",2026-11-22,https://riverside.fm/pricing,https://twistavo.com/ai-tool-pricing/riverside,
+Riverside,riverside,editing,Grow,$39,"per month, billed monthly",$34 per month billed annually ($408),"France, USD",2026-11-22,https://riverside.fm/pricing,https://twistavo.com/ai-tool-pricing/riverside,
+Riverside,riverside,editing,Webinar,$99,"per month, billed monthly",$79 per month billed annually,"France, USD",2026-11-22,https://riverside.fm/pricing,https://twistavo.com/ai-tool-pricing/riverside,
+Scenario,scenario,image,Starter,$15,"per month, billed monthly",,"France, USD",2026-11-22,https://www.scenario.com/pricing,https://twistavo.com/ai-tool-pricing/scenario,
+Scenario,scenario,image,Pro,$45,"per month, billed monthly",,"France, USD",2026-11-22,https://www.scenario.com/pricing,https://twistavo.com/ai-tool-pricing/scenario,
+Scenario,scenario,image,Max,$75,"per month, billed monthly",,"France, USD",2026-11-22,https://www.scenario.com/pricing,https://twistavo.com/ai-tool-pricing/scenario,
+Sonix,sonix,editing,Pay As You Go,$10/hr,"per hour of audio or video, prorated to the second, no subscription",,"France, USD",2026-11-22,https://sonix.ai/pricing,https://twistavo.com/ai-tool-pricing/sonix,usage
+Sonix,sonix,editing,Core,$25,"per month, billed monthly","$275 per year, billed annually","France, USD",2026-11-22,https://sonix.ai/pricing,https://twistavo.com/ai-tool-pricing/sonix,
+Sonix,sonix,editing,Advanced,$50,"per month, billed monthly","$550 per year, billed annually","France, USD",2026-11-22,https://sonix.ai/pricing,https://twistavo.com/ai-tool-pricing/sonix,
+Sonix,sonix,editing,Pro,$80,"per month, billed monthly","$880 per year, billed annually","France, USD",2026-11-22,https://sonix.ai/pricing,https://twistavo.com/ai-tool-pricing/sonix,
+Spline,spline,3d,Free,$0,per month,,"France, USD",2026-11-22,https://spline.design/pricing,https://twistavo.com/ai-tool-pricing/spline,
+Spline,spline,3d,Hobby,$12,"per seat per month, billed annually ($144 per year)",,"France, USD",2026-11-22,https://spline.design/pricing,https://twistavo.com/ai-tool-pricing/spline,
+Spline,spline,3d,Pro,$25,"per seat per month, billed annually ($300 per year)",,"France, USD",2026-11-22,https://spline.design/pricing,https://twistavo.com/ai-tool-pricing/spline,
+Spline,spline,3d,Max,$60,"per seat per month, billed annually ($720 per year)",,"France, USD",2026-11-22,https://spline.design/pricing,https://twistavo.com/ai-tool-pricing/spline,
+Steve AI,steve-ai,video,Basic,$10,"per month, billed yearly ($120 per year)",,"France, USD",2026-11-22,https://www.steve.ai/pricing,https://twistavo.com/ai-tool-pricing/steve-ai,
+Steve AI,steve-ai,video,Starter,$30,"per month, billed yearly ($360 per year)",,"France, USD",2026-11-22,https://www.steve.ai/pricing,https://twistavo.com/ai-tool-pricing/steve-ai,
+Steve AI,steve-ai,video,Pro,$40,"per month, billed yearly ($480 per year)",,"France, USD",2026-11-22,https://www.steve.ai/pricing,https://twistavo.com/ai-tool-pricing/steve-ai,
+Submagic,submagic,editing,Starter,12€,"per month, billed 144€ a year","19€ per month, billed monthly","France, EUR",2026-11-22,https://www.submagic.co/pricing,https://twistavo.com/ai-tool-pricing/submagic,
+Submagic,submagic,editing,Pro,23€,"per month, billed 276€ a year","39€ per month, billed monthly","France, EUR",2026-11-22,https://www.submagic.co/pricing,https://twistavo.com/ai-tool-pricing/submagic,
+Submagic,submagic,editing,Business,41€,"per month, billed 492€ a year","69€ per month, billed monthly","France, EUR",2026-11-22,https://www.submagic.co/pricing,https://twistavo.com/ai-tool-pricing/submagic,
+Suno,suno,music,Free,$0,per month,,"France, USD",2026-11-22,https://suno.com/pricing,https://twistavo.com/ai-tool-pricing/suno,
+Suno,suno,music,Pro,$10,"per month, billed monthly",$8 per month billed yearly ($96/year),"France, USD",2026-11-22,https://suno.com/pricing,https://twistavo.com/ai-tool-pricing/suno,
+Suno,suno,music,Premier,$30,"per month, billed monthly",$24 per month billed yearly ($288/year),"France, USD",2026-11-22,https://suno.com/pricing,https://twistavo.com/ai-tool-pricing/suno,
+Suno,suno,music,Platinum,$120,"per month, billed monthly","$100 per month billed yearly ($1,200/year)","France, USD",2026-11-22,https://suno.com/pricing,https://twistavo.com/ai-tool-pricing/suno,
+Tavus,tavus,avatar,Developer Starter,$59,"per month access fee, plus pay as you go",,"France, USD",2026-11-22,https://www.tavus.io/pricing,https://twistavo.com/ai-tool-pricing/tavus,
+Tavus,tavus,avatar,Developer Growth,$397,"per month access fee, plus pay as you go",,"France, USD",2026-11-22,https://www.tavus.io/pricing,https://twistavo.com/ai-tool-pricing/tavus,
+Tavus,tavus,avatar,PALs Plus,$20,per month,,"France, USD",2026-11-22,https://www.tavus.io/pricing,https://twistavo.com/ai-tool-pricing/tavus,
+Tavus,tavus,avatar,PALs Max,$50,per month,,"France, USD",2026-11-22,https://www.tavus.io/pricing,https://twistavo.com/ai-tool-pricing/tavus,
+Topaz Labs,topaz-labs,upscaling,Topaz for Web - Image,$19,per month,,USD,2026-11-22,https://www.topazlabs.com/pricing,https://twistavo.com/ai-tool-pricing/topaz-labs,
+Topaz Labs,topaz-labs,upscaling,Topaz for Web - Video,$29,per month,,USD,2026-11-22,https://www.topazlabs.com/pricing,https://twistavo.com/ai-tool-pricing/topaz-labs,
+Topaz Labs,topaz-labs,upscaling,Topaz Photo,$39,per month,,USD,2026-11-22,https://www.topazlabs.com/pricing,https://twistavo.com/ai-tool-pricing/topaz-labs,
+Topaz Labs,topaz-labs,upscaling,Topaz Video,$59,per month,,USD,2026-11-22,https://www.topazlabs.com/pricing,https://twistavo.com/ai-tool-pricing/topaz-labs,
+Topaz Labs,topaz-labs,upscaling,Topaz Studio,$79,per month,,USD,2026-11-22,https://www.topazlabs.com/pricing,https://twistavo.com/ai-tool-pricing/topaz-labs,
+TopView,topview,avatar,Plus,$36,"per month, billed annually ($432 billed annually)",,"France, USD",2026-11-22,https://www.topview.ai/pricing,https://twistavo.com/ai-tool-pricing/topview,
+TopView,topview,avatar,Business,$44,"per month, billed annually ($528 billed annually)",,"France, USD",2026-11-22,https://www.topview.ai/pricing,https://twistavo.com/ai-tool-pricing/topview,
+TopView,topview,avatar,Ultra,$50,"per month, billed annually ($599.9 billed annually)",,"France, USD",2026-11-22,https://www.topview.ai/pricing,https://twistavo.com/ai-tool-pricing/topview,
+TopView,topview,avatar,Team,$56,"per seat per month, billed annually ($672 per seat billed annually)",,"France, USD",2026-11-22,https://www.topview.ai/pricing,https://twistavo.com/ai-tool-pricing/topview,
+Upscale.media,upscale-media,upscaling,Free Plan,€0,per month,,"France, EUR",2026-11-22,https://upscale.media/pricing,https://twistavo.com/ai-tool-pricing/upscale-media,
+Upscale.media,upscale-media,upscaling,Subscription Plan (default option shown),€63.81,"billed yearly (auto-renews), shown as €0.01 per credit",,"France, EUR",2026-11-22,https://upscale.media/pricing,https://twistavo.com/ai-tool-pricing/upscale-media,
+Upscale.media,upscale-media,upscaling,"Pay as you go, 60 credits",€7.28,one-time payment,,"France, EUR",2026-11-22,https://upscale.media/pricing,https://twistavo.com/ai-tool-pricing/upscale-media,one-time
+Upscale.media,upscale-media,upscaling,"Pay as you go, 125 credits",€10.93,one-time payment,,"France, EUR",2026-11-22,https://upscale.media/pricing,https://twistavo.com/ai-tool-pricing/upscale-media,one-time
+Upscale.media,upscale-media,upscaling,"Pay as you go, 500 credits",€27.34,one-time payment,,"France, EUR",2026-11-22,https://upscale.media/pricing,https://twistavo.com/ai-tool-pricing/upscale-media,one-time
+Upscale.media,upscale-media,upscaling,"Pay as you go, 1200 credits",€50.14,one-time payment,,"France, EUR",2026-11-22,https://upscale.media/pricing,https://twistavo.com/ai-tool-pricing/upscale-media,one-time
+Voice.ai,voice-ai,voice,Free,$0,per month,,"France, USD",2026-11-22,https://voice.ai/pricing,https://twistavo.com/ai-tool-pricing/voice-ai,
+Voice.ai,voice-ai,voice,Starter,$5,per month,,"France, USD",2026-11-22,https://voice.ai/pricing,https://twistavo.com/ai-tool-pricing/voice-ai,
+Voice.ai,voice-ai,voice,Launch,$24,per month (regular price; first month discounted that day),,"France, USD",2026-11-22,https://voice.ai/pricing,https://twistavo.com/ai-tool-pricing/voice-ai,
+Voice.ai,voice-ai,voice,Core,$99,per month,,"France, USD",2026-11-22,https://voice.ai/pricing,https://twistavo.com/ai-tool-pricing/voice-ai,
+Voice.ai,voice-ai,voice,Scale,$330,per month,,"France, USD",2026-11-22,https://voice.ai/pricing,https://twistavo.com/ai-tool-pricing/voice-ai,
+Voice.ai,voice-ai,voice,Business,$880,per month,,"France, USD",2026-11-22,https://voice.ai/pricing,https://twistavo.com/ai-tool-pricing/voice-ai,
